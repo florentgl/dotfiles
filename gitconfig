@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = florent.gilet@protonmail.com
+	name = florent gilet
